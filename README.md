@@ -81,14 +81,7 @@ COUNTROWS(
 - Custom Power BI theme JSON for consistent colors, fonts, and card styling across both pages
 - Chart titles and KPI cards styled for readability against the background art
 
-## 📷 Preview
 
-*(Add dashboard screenshots here — drag image files into this repo and reference them like below)*
-
-```markdown
-![Page 1 - Investment Overview](screenshots/page1.png)
-![Page 2 - Deal Dynamics](screenshots/page2.png)
-```
 
 ## 🚀 How to Use
 
